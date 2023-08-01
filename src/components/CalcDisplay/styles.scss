@@ -1,0 +1,11 @@
+.calcDisplay {
+  margin: 0 auto;
+  height: 200px;
+  width: calc(100% - 400px);
+  background-color: #d9d9ef;
+  border: solid 5px black;
+  font-size: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
